@@ -371,7 +371,7 @@ If you find this work useful for your research, please cite:
 
 - **Author**: Lian Wira Manuel Maharaja (Student ID: 00000075938)
 - **Program**: Information Systems, Universitas Multimedia Nusantara
-- **Email**: `<add your email>`
+- **Email**: `<lian.wira@student.umn.ac.id>`
 - For questions or issues, please open an issue on the repository.
 
 ---
