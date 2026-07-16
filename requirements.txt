@@ -1,0 +1,25 @@
+# ---- Coffee Bean Quality Detection (YOLO, Faster R-CNN, SSD) ----
+# Python 3.9+ recommended. A CUDA-capable GPU is recommended for training.
+# Versions are left unpinned for portability; pin them (e.g. torch==2.3.1)
+# to match your environment for exact reproducibility.
+
+# Deep learning framework (Faster R-CNN & SSD300)
+torch
+torchvision
+
+# YOLOv8
+ultralytics
+
+# Web application (deployment)
+streamlit
+
+# Image processing & utilities
+opencv-python
+Pillow
+numpy
+
+# Training / evaluation & visualization (notebook)
+matplotlib
+seaborn
+scikit-learn
+timm
