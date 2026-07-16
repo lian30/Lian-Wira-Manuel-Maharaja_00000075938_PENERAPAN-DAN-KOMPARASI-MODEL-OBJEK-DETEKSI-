@@ -6,7 +6,7 @@ Official implementation of the undergraduate thesis
 
 Information Systems Study Program, Universitas Multimedia Nusantara (UMN).
 
-📄 **Paper / Thesis**: `<add your thesis or ResearchGate link here>`
+📄 **Paper**: `<PENERAPAN DAN KOMPARASI MODEL OBJEK DETEKSI (YOLO, FASTER R-CNN, SSD) UNTUK DETEKSI KUALITAS BIJI KOPI>`
 
 ---
 
